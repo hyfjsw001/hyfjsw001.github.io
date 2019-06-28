@@ -5,8 +5,9 @@ index的css
     /*background-color:gray;*/
     text-align:center
 }
-/*#music{*/
-/*    position:relative;*/
-/*    !*left: 40%;*!*/
+#manager{
+    position:relative;
+    bottom:0px;
+    right:20px;
 
-/*}*/
+}
