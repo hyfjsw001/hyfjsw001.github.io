@@ -6,8 +6,16 @@ index的css
     text-align:center
 }
 #manager{
-    position:relative;
+    position:absolute;
     bottom:0px;
     right:20px;
+	float:right;
+
+}
+#book{
+    position:absolute;
+    bottom:0px;
+    left:20px;
+	Margin-right:600px;
 
 }
